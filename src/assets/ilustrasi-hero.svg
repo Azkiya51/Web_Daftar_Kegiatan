@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 280" width="360" height="280" role="img" aria-label="Ilustrasi daftar kegiatan">
+  <circle cx="180" cy="140" r="118" fill="#dbeeff"/>
+  <circle cx="300" cy="52" r="14" fill="#c7e2ff"/>
+  <circle cx="52" cy="226" r="10" fill="#c7e2ff"/>
+  <rect x="92" y="34" width="176" height="218" rx="18" fill="#ffffff" stroke="#b9d9fa" stroke-width="2"/>
+  <rect x="150" y="22" width="60" height="26" rx="9" fill="#1f78d1"/>
+  <!-- baris 1 (selesai) -->
+  <rect x="116" y="76" width="24" height="24" rx="7" fill="#1f78d1"/>
+  <polyline points="122,88 127,93 134,83" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="152" y="82" width="96" height="11" rx="5.5" fill="#c7e2ff"/>
+  <!-- baris 2 (selesai) -->
+  <rect x="116" y="124" width="24" height="24" rx="7" fill="#1f78d1"/>
+  <polyline points="122,136 127,141 134,131" fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="152" y="130" width="68" height="11" rx="5.5" fill="#c7e2ff"/>
+  <!-- baris 3 (belum) -->
+  <rect x="117" y="173" width="22" height="22" rx="6" fill="#fff" stroke="#8fc1f5" stroke-width="2.4"/>
+  <rect x="152" y="178" width="84" height="11" rx="5.5" fill="#e3f0fd"/>
+  <!-- kalender -->
+  <rect x="226" y="176" width="100" height="82" rx="14" fill="#ffffff" stroke="#b9d9fa" stroke-width="2"/>
+  <path d="M226 202 V190 a14 14 0 0 1 14 -14 H312 a14 14 0 0 1 14 14 V202 Z" fill="#1f78d1"/>
+  <g fill="#c7e2ff">
+    <circle cx="246" cy="220" r="5"/><circle cx="266" cy="220" r="5"/><circle cx="286" cy="220" r="5"/>
+    <circle cx="246" cy="240" r="5"/><circle cx="266" cy="240" r="5"/>
+  </g>
+  <circle cx="286" cy="240" r="6.5" fill="#1f78d1"/>
+</svg>
